@@ -51,6 +51,18 @@ Performance evaluation showed that the Random Forest Regressor outperformed othe
 
 ## :wrench: Deployment
 
+The final model was deployed using Flask. The deployment includes two pages:
+
+- **Player Selection**: A dropdown list of all 18,000 players.
+- **Price Prediction**: Once a player is selected, clicking the "Predict" button redirects to a page displaying the predicted market value of the player.
+
+### Deployment Preview
+
+![image](https://github.com/user-attachments/assets/d8f8531a-6981-4d7b-95c8-ae17b6e89d41)
+
+![image](https://github.com/user-attachments/assets/d35279d8-c11b-4b71-abc5-6b6edf1ddacb)
+
+![image](https://github.com/user-attachments/assets/ca89875c-13ca-4936-b3fb-59194da22d54)
 
 
 
