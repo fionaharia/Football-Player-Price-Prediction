@@ -1,4 +1,4 @@
-# Football Player Price Prediction
+# Modeling Market Valuation in Football
 
 ## :soccer: **Project Overview**
 
